@@ -1,10 +1,11 @@
 .tiago{
-    position: absolute;
-    width: 300px;
+    position:absolute ;
+    width:50px;
     background-color:rgba(216, 29, 15, 0.979) ;
     left: 30%;
 
 }
+
 p{
     font-family:arial;
     font-size:20px;
@@ -12,11 +13,11 @@ p{
 h1{
     font-family:Arial;
     font-size:40px;
-    padding-top: 200px;
+    padding-top: 100px;
     text-align: center;
 }
 *{
-    margin:3;
+    margin: 5px;;
     border:3;
     padding:3;
 }
